@@ -1,0 +1,105 @@
+body{
+    background-color: #B2B2B2;
+    padding: 30px;
+}
+
+.div{
+    background-color: white;
+    padding: 5px;
+    height: 100px;
+    width: auto;
+}
+
+input{
+    border: white;
+}
+
+.tur{
+    width: 100%;
+}
+
+h1{
+    padding-left: 40px;
+}
+
+td{
+    border: 1px solid black;
+    border-style: dotted
+}
+
+tr,td, .tt{
+    height: 50px;
+}
+
+h2{
+    text-align: center; 
+    background-color: black;
+    color: white;
+    width: 98%;
+}
+
+.tc{
+    background-color: white;
+    width: 600px;
+    float: left;
+    display: block;
+}
+
+.div2{
+    background-color: white;
+    padding: 5px;
+    height: 100px;
+    width: auto;
+}
+
+.div3{
+    width: auto;
+    float: left;
+    display: block;
+    padding-bottom: 30px;
+}
+
+.tcc{
+    width: auto;
+    float: left;
+    display: block;
+}
+
+.iee{
+    width: auto;
+    float: left;
+    display: block;
+}
+
+.ie{
+    background-color: white;
+    width: 300px;
+    float: left;
+    display: block;
+}
+
+.nemm{
+    width: auto;
+    float: left;
+    display: block;
+}
+
+.nem{
+    background-color: white;
+    width: 1150px;
+    float: left;
+    display: block;
+}
+
+.ipp{
+    width: auto;
+    float: left;
+    display: block;
+}
+
+.ip{
+    background-color: white;
+    width: 233px;
+    float: left;
+    display: block;
+}

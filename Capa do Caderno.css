@@ -1,0 +1,38 @@
+div{
+    padding: 10px;
+    border: 1px solid rgb(87, 165, 190);
+    border-radius: 30px;
+    
+    }
+
+body{
+    color: rgb(87, 165, 190);
+    padding-left: 50px;
+    padding-right: 60px;
+    padding-top: 30px;
+    }
+
+input{
+    border: white;
+    color:rgb(87, 165, 190)
+    }
+
+label{
+    border-color: white;
+    }
+
+h1{
+    background-size: auto;
+    color: white;
+    background-color: rgb(87, 165, 190);
+    text-align: center;
+    }    
+
+.media_final{
+    padding-left: 50%;
+}
+
+
+
+
+
